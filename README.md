@@ -1,6 +1,8 @@
 # Banking System in Java
 Developed a console-based banking system in Java using object-oriented programming principles. Implemented customer account creation, checking/savings account management, deposits, withdrawals, and exception handling for insufficient funds.
 
+![Banking System Screenshot](banking.png)
+
 
 A simple console-based banking application built in Java using object-oriented programming principles.
 
